@@ -72,7 +72,6 @@ def transfer():
         to_name = bam.accounts[str(to_whom)]['name']
         print(f"Successfully transferred {amount} $ from {from_name} to {to_name}.")
 
-
 def deposit():
     show_user_ids_and_balance()
     to_who = input('To who? (ID): ')
