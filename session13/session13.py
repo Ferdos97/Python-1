@@ -16,14 +16,14 @@ def get_name_by_age(a):
     else:
         print('can not find')
 
-get_name_by_age(24)        #--->  ali4
-get_name_by_age(30)        #--->   'can not find'
+get_name_by_age(24)         #--->  ali4
+get_name_by_age(30)         #--->   'can not find'
 
 #-------------------
 
 # number of user in users:
 
-print(len(users))          #------> 5
+print(len(users))           #------> 5
 
 # -------------------
 
